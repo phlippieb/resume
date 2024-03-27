@@ -1,18 +1,16 @@
 # Phlippie Bosman
 
-[`phlippie.bosman@gmail.com`](mailto:phlippie.bosman@gmail.com) |
-[`github.com/phlippieb`](https://github.com/phlippieb) |
-[`phlippieb.bearblog.dev`](https://phlippieb.bearblog.dev)
+[phlippie.bosman@gmail.com](mailto:phlippie.bosman@gmail.com) |
+[github.com/phlippieb](https://github.com/phlippieb) |
+[phlippieb.bearblog.dev](https://phlippieb.bearblog.dev)
 
 
 ## Skills
 
 **Proficient:**
-Swift, iOS, Dart, Flutter, Bitrise, Github Actions, Firebase, Fastlane, Realm, gRPC
-
+Swift, iOS, Dart, Flutter, Bitrise, Github Actions, Firebase, Fastlane, Realm, gRPC  
 **Cursory professional experience:**
-Objective-C, Javascript, Vue, Node, PostgreSQL, Go, Ionic, Ruby, Bash scripting
-
+Objective-C, Javascript, Vue, Node, PostgreSQL, Go, Ionic, Ruby, Bash scripting  
 **Other:**
 Python, Rust, R, Google Cloud Services
 
@@ -24,10 +22,14 @@ Python, Rust, R, Google Cloud Services
 Senior software developer and team lead
 
 Client projects:  
-- **Discovery Limited Health App** | Mobile technical lead on team of 8 | 2023 – 2024  
-  - TODO: somthing short about the project + brag about how prominent it is
-  - Co-directed transition from native to Flutter-based implementation, designing architecture, planning feature roadmaps, building release pipelines, integrating with other units, and managing team efforts
-  - Used: Swift, Dart, Flutter, Bitrise, Github Actions, Firebase
+- **Discovery Limited – Health App** | Mobile technical lead on team of 8 | 2023 – 2024  
+  New standalone mobile app for South Africa's largest medical scheme with 2.8M customers
+  - Negotiated approval for and led the implementation of a new Flutter-based mobile app
+  - Architected library of modules to be reusable company-wide through a process of proposing RFCs, writing abstract interfaces, and releasing standalone federated plugins
+  - Instilled usage of BLoC, dependency injection, and feature flag patterns through reference implementations and code reviews
+  - Engaged stakeholders, converting business cases to roadmaps with linked issues, reporting regularly on install and crash stats, and proactively communicating roadblocks
+  - Implemented release pipelines on Github Actions and Bitrise to Firebase App Distribution and App Store Connect to provide QA with nightly builds and to streamline app store releases, enabling everyone on the team to go live
+  - Integrated in-house iOS-native biometric authentication SDK as a Flutter plugin, using native Swift code in concert with Dart, improving user experience and aligning with organisation security standards
 - **Discovery Limited Health Module** | Mobile technical lead | 2022-2023
   - Translated stakeholder requests to implementation planning in absence of proper business representation
   - Coordinated and participated in production support, addressing user issues and collaborating with other teams to drive problem resolution
@@ -48,7 +50,6 @@ Internal contributions:
   - Participated in pilot program for official mentorship initiative, suggesting improvements and solving logistic issues for full rollout of program
   - Took on multiple mentees simultaneously, totalling 5
 
-<!---
 **University of Pretoria**  
 2013 – 2015 |
 Assistant lecturer  
@@ -57,7 +58,6 @@ Tutor
 
 **Net1 UEPS Technologies**  
 2012 | Junior software developer
--->
 
 ## Education
 
