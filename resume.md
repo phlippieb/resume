@@ -6,7 +6,7 @@
 
 ## Skills
 
-Swift, Objective-C, iOS, Dart, Flutter, Bitrise, Github Actions, Firebase, Fastlane, Realm, gRPC <!-- TODO: Any more? Only list skills I'd feel comfortable taking a job in -->
+Swift, Objective-C, iOS, Dart, Flutter, Bitrise, Github Actions, Firebase, Fastlane, Realm, gRPC, Protocol Buffers
 
 ## Experience
 
@@ -59,4 +59,4 @@ Internal contributions:
 
 ## Education
 
-Master of Science (Computer Science) with distinction | University of Pretoria, South Africa | 2019 
+Master of Science in Computer Science (Distinction) | University of Pretoria, South Africa | 2019 
