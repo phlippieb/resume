@@ -1,6 +1,6 @@
 # Phlippie Bosman
 
-| [phlippie.bosman@gmail.com](mailto:phlippie.bosman@gmail.com) | [github.com/phlippieb](https://github.com/phlippieb) | [phlippieb.bearblog.dev](https://phlippieb.bearblog.dev) |
+| [`phlippie.bosman@gmail.com`](mailto:phlippie.bosman@gmail.com) | [`github.com/phlippieb`](https://github.com/phlippieb) | [`phlippieb.bearblog.dev`](https://phlippieb.bearblog.dev) |
 | -- | -- | -- |
 
 ## Skills
@@ -27,7 +27,7 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 - Integrated in-house iOS-native biometric authentication SDK as a Flutter plugin, connecting native Swift code to Dart, improving user experience and aligning with organisation security standards <!--NOTE: Change organisation to organization if applying in US-->
 - Engaged stakeholders, converting business cases to road maps with linked issues, reporting regularly on install- and crash stats, and proactively communicating roadblocks  
 
-| *iOS technical lead* | *Discovery Limited* | *2022-2023* |
+| *iOS technical lead* | *Discovery Limited* | *2022 – 2023* |
 | -- | -- | -- |
 | Health Module for Mobile App | South Africa | |
 
