@@ -1,8 +1,7 @@
 # Phlippie Bosman
 
-[phlippie.bosman@gmail.com](mailto:phlippie.bosman@gmail.com) |
-[github.com/phlippieb](https://github.com/phlippieb) |
-[phlippieb.bearblog.dev](https://phlippieb.bearblog.dev)
+| [phlippie.bosman@gmail.com](mailto:phlippie.bosman@gmail.com) | [github.com/phlippieb](https://github.com/phlippieb) | [phlippieb.bearblog.dev](https://phlippieb.bearblog.dev) |
+| -- | -- | -- |
 
 ## Skills
 
@@ -10,11 +9,14 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 
 ## Experience
 
-**Retro Rabbit Enterprise Services**  | Senior software developer | 2016 – present
+| **Retro Rabbit Enterprise Services**  | **Senior software developer** | **2016 – present** |
+| -- | -- | -- |
 
 Client projects:
 
-- **Discovery Limited – Health App** | Mobile technical lead | 2023 – 2024  
+| Discovery Limited – Health App | Mobile technical lead | 2023 – 2024 |
+| -- | -- | -- |
+
   - Co-led team of 8 implementing new Flutter-based mobile app for South Africa's largest medical scheme with 2.8M customers
   - Designed library of modules to be reusable company-wide through a process of proposing RFCs, writing abstract interfaces, and releasing standalone federated plugins
   - Instilled usage of BLoC, dependency injection, and feature flag patterns through reference implementations and code reviews
