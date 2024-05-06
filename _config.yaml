@@ -1,0 +1,5 @@
+# Render index.md as the homepage
+permalink: /:title/
+
+# Disable default theme styling
+exclude: ["/css/*.css", "/scss/*.scss", "/sass/*.sass"]  # Exclude default theme css/scss files

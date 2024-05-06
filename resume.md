@@ -1,3 +1,5 @@
+<head><link rel="stylesheet" href="resume.css"></head>
+
 # Phlippie Bosman
 
 | [`phlippie.bosman@gmail.com`](mailto:phlippie.bosman@gmail.com) | [`github.com/phlippieb`](https://github.com/phlippieb) | [`phlippieb.bearblog.dev`](https://phlippieb.bearblog.dev) |
