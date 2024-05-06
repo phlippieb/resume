@@ -6,7 +6,7 @@
 
 ## Skills
 
-Swift, Objective-C, iOS, Dart, Flutter, Bitrise, Github Actions, Firebase, Fastlane, Realm, gRPC, Protocol Buffers
+Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastlane, Realm, gRPC, Protocol Buffers
 
 ## Experience
 
@@ -18,14 +18,14 @@ Client projects:
   - Co-led team of 8 implementing new Flutter-based mobile app for South Africa's largest medical scheme with 2.8M customers
   - Designed library of modules to be reusable company-wide through a process of proposing RFCs, writing abstract interfaces, and releasing standalone federated plugins
   - Instilled usage of BLoC, dependency injection, and feature flag patterns through reference implementations and code reviews
-  - Set up release pipelines on Github Actions and Bitrise into Firebase App Distribution, App Store Connect and Google Play to provide QA with nightly builds and streamline app store releases, enabling anyone on the team to go live
+  - Set up release pipelines on GitHub Actions and Bitrise into Firebase App Distribution, App Store Connect and Google Play to provide QA with nightly builds and streamline app store releases, enabling anyone on the team to go live
   - Integrated in-house iOS-native biometric authentication SDK as a Flutter plugin, connecting native Swift code to Dart, improving user experience and aligning with organisation security standards <!--NOTE: Change organisation to organization if applying in US-->
   - Engaged stakeholders, converting business cases to road maps with linked issues, reporting regularly on install- and crash stats, and proactively communicating roadblocks  
 
 - **Discovery Limited – Health Module** | iOS technical lead | 2022-2023
   - Maintained Swift- and Objective-C-based native iOS code modules providing all personal and company-issued medical insurance functionality across 4 independent schemes to 3M+ customers
   - Coordinated and participated in production support, addressing user issues and collaborating across teams to drive problem resolution
-  - Implemented version-bump automation in Github Actions and Fastlane to unblock code merging conflicts and improve team throughput
+  - Implemented version-bump automation in GitHub Actions and Fastlane to unblock code merging conflicts and improve team throughput
   - Introduced SwiftLint to keep code reviews focused on content over style
   - Translated high-level stakeholder feature requests to implementation plans in absence of business representation
 
