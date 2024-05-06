@@ -71,15 +71,24 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 | **Assistant lecturer** | **University of Pretoria**  | **2013 – 2015** |
 | -- | -- | -- |
 
+- Prepared and presented lectures for undergraduate computer science modules
+- Set assessment tasks, including exams, tests, and exercises
+
 <br/>
 
-| **Net1 UEPS Technologies** | **Junior software developer** | **2012** |
+| **Junior software developer** | **Net1 UEPS Technologies** | **2012** |
 | -- | -- | -- |
+| Nedbank Team | South Africa | |
+
+- Investigated production incidents involving transactions through a major South African bank's point-of-sale transaction switch system
+- Performed maintenance work to align system to ISO standards updates
 
 <br/>
 
 | **Tutor** | **University of Pretoria** | **2010 – 2011** |
 | -- | -- | -- |
+
+- Assisted with practical lab sessions and assessment marking for undergraduate computer science modules
 
 ## Education
 
