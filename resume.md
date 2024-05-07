@@ -56,7 +56,7 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 
 - Co-chaired committee aimed at fostering a culture of continuous learning and knowledge sharing
 - Co-organised 3 internal conferences, showcasing a total of 34 speakers to 500+ attendees <!--NOTE: Change organised to organized if applying in US-->
-- Organised a continuous stream of technical talks by internal and external speakers, in addition to other initiatives and activities, keeping employees engaged and stimulated <!--NOTE: Change organised to organized if applying in US-->
+- Organised a continuous stream of technical talks by internal and external speakers, keeping employees engaged and stimulated <!--NOTE: Change organised to organized if applying in US-->
 
 | _Chief editor_ | _Company blog_ | _2020 – present_ |
 | -------------- | -------------- | ---------------- |
