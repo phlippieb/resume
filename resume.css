@@ -1,7 +1,7 @@
 body {
-  padding: 1in;
+  padding: 0px;
   font-family: "Helvetica", "Inter", sans-serif;
-  font-size: 12px;
+  font-size: 14px;
 }
 
 /* Don't render links */
@@ -17,13 +17,13 @@ h3 {
 }
 
 h1 {
-  font-size: 14px;
+  font-size: 16px;
   margin: 0;
 }
 
 h2,
 h3 {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 h2 {
