@@ -1,4 +1,5 @@
-# Phlippie Bosman
+<!-- NOTE: Title will be added by pandoc -->
+<!-- # Phlippie Bosman -->
 
 | [phlippie.bosman@gmail.com](mailto:phlippie.bosman@gmail.com) | [github.com/phlippieb](https://github.com/phlippieb) | [phlippieb.bearblog.dev](https://phlippieb.bearblog.dev) |
 | ------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------- |
