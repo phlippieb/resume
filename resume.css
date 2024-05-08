@@ -1,11 +1,14 @@
-/* @page {
+@page {
   size: a4;
-} */
+}
 
 body {
-  padding: 0px;
+  padding-top: 0.6in;
+  padding-bottom: 0.6in;
+  padding-left: 1.5in;
+  padding-right: 1.5in;
   font-family: "Inter", sans-serif;
-  font-size: 12px;
+  font-size: 16px;
 }
 
 body a {
@@ -27,17 +30,17 @@ h1 {
 
 h2,
 h3 {
-  font-size: 14px;
+  font-size: 18px;
 }
 
 h2 {
-  margin-top: 30px;
+  margin-top: 50px;
   border-bottom: 1px solid black;
   padding-bottom: 4px;
 }
 
 h3 {
-  margin-top: 20px;
+  margin-top: 36px;
   font-weight: normal;
 }
 
@@ -49,7 +52,7 @@ table {
   width: 100%;
   table-layout: fixed;
   border-collapse: collapse;
-  margin-top: 12px;
+  margin-top: 36px;
 }
 
 table th:first-child {
