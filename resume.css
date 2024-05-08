@@ -9,6 +9,15 @@ body {
   padding-right: 1.5in;
   font-family: "Inter", sans-serif;
   font-size: 16px;
+  background-color: white;
+  color: black;
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  body {
+    background-color: #222831;
+    color: #dddddd;
+  }
 }
 
 body a {
@@ -37,6 +46,11 @@ h2 {
   margin-top: 50px;
   border-bottom: 1px solid black;
   padding-bottom: 4px;
+}
+@media screen and (prefers-color-scheme: dark) {
+  h2 {
+    border-bottom: 1px solid #dddddd;
+  }
 }
 
 h3 {
