@@ -1,10 +1,13 @@
+/* @page {
+  size: a4;
+} */
+
 body {
   padding: 0px;
-  font-family: "Helvetica", "Inter", sans-serif;
-  font-size: 14px;
+  font-family: "Inter", sans-serif;
+  font-size: 12px;
 }
 
-/* Don't render links */
 body a {
   text-decoration: underline;
   color: inherit;
@@ -47,7 +50,6 @@ table {
   table-layout: fixed;
   border-collapse: collapse;
   margin-top: 12px;
-  /* margin-bottom: -12px; */
 }
 
 table th:first-child {
