@@ -14,6 +14,8 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 
 - Upskilled in various technologies and paradigms across mobile, frontend, and backend to deliver quality software on diverse client projects
 - Led inter-organisational teams, cultivated deep client relationships, and fostered an internal culture of continuous learning
+- Interviewed potential candidates and held mock interviews to prepare employees for client placement
+- Designed and hosted workshops, educating graduates about best practices regarding clean code and maintainability at industry level
 
 ### Client projects
 
