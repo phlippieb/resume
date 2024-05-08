@@ -6,7 +6,7 @@ body {
 
 /* Don't render links */
 body a {
-  text-decoration: none;
+  text-decoration: underline;
   color: inherit;
 }
 
@@ -17,8 +17,9 @@ h3 {
 }
 
 h1 {
-  font-size: 20px;
+  font-size: 24px;
   margin: 0;
+  margin-bottom: -6px;
 }
 
 h2,
