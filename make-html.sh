@@ -1,7 +1,8 @@
-pandoc \
--f gfm \
--t html5 \
---metadata pagetitle="resume.md" \
---css resume.css \
-resume.md \
--o index.html
+pandoc resume.md \
+  --standalone \
+  -f gfm \
+  -M title="Phlippie Bosman" \
+  -c resume.css \
+  -t html5 \
+  -o index.html
+
