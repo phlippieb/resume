@@ -28,6 +28,8 @@ You then need an additional engine to create the PDF files. make-pdf.sh has comm
 
 Make sure your tool of choice is installed, then uncomment the appropriate section in make-pdf.sh.
 
+The resume uses the Inter font. [Get it here](https://rsms.me/inter/#).
+
 ## Workflow
 
 The `main` branch contains my complete résumé. Tailored versions for specific applications are "released" by cutting a release branch, editing the content in `resume.md`, and generating a PDF.
