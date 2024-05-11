@@ -32,6 +32,8 @@ Make sure your tool of choice is installed, then uncomment the appropriate secti
 
 The `main` branch contains my complete résumé. Tailored versions for specific applications are "released" by cutting a release branch, editing the content in `resume.md`, and generating a PDF.
 
+To release to GitHub Pages (see [Web version]), merge into the `gh-pages` branch.
+
 ## Web version
 
 A GitHub Pages-hosted version of the resume is available at [phlippieb.github.io/resume](https://phlippieb.github.io/resume). It is responsive and supports dark mode.
