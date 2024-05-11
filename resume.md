@@ -1,8 +1,13 @@
 <!-- NOTE: Title will be added by pandoc -->
 <!-- # Phlippie Bosman -->
 
-| [phlippie.bosman@gmail.com](mailto:phlippie.bosman@gmail.com) | [github.com/phlippieb](https://github.com/phlippieb) | [phlippieb.bearblog.dev](https://phlippieb.bearblog.dev) |
-| ------------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------- |
+<div class="table">
+  <div class="row">
+    <div class="col"><a href="mailto:phlippie.bosman@gmail.com">phlippie.bosman@gmail.com</a></div>
+    <div class="col"><a href="https://github.com/phlippieb">github.com/phlippieb</a></div>
+    <div class="col"><a href="https://phlippieb.bearblog.dev">phlippieb.bearblog.dev</a></div>
+  </div>
+</div>
 
 ## Skills
 
