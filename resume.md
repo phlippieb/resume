@@ -29,15 +29,15 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 
 <div class="table"><div class="row">
   <div class="col">
-    <i>Mobile technical lead</i><br/>
+    Mobile technical lead <br/>
     Health App
   </div>
   <div class="col">
-    <i>Discovery Limited</i><br/>
+    Discovery Limited <br/>
     South Africa
   </div>
   <div class="col">
-    <i>2023 – 2024</i>
+    2023 – 2024
   </div>
 </div></div>
 
@@ -50,18 +50,17 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 
 <div class="table"><div class="row">
   <div class="col">
-    <i>iOS technical lead</i><br/>
+    iOS technical lead <br/>
     Health Module for Mobile App
   </div>
   <div class="col">
-    <i>Discovery Limited</i><br/>
+    Discovery Limited <br/>
     South Africa
   </div>
   <div class="col">
+    2022 – 2023
   </div>
-    <i>2022 – 2023</i>
-  </div>
-</div>
+</div></div>
 
 - Maintained Swift- and Objective-C-based native iOS code modules providing all functionality for personal and company-issued medical insurance across 4 independent schemes to 3M+ customers
 - Coordinated and participated in production support, addressing user issues and collaborating across teams to drive problem resolution
@@ -71,15 +70,15 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 
 <div class="table"><div class="row">
   <div class="col">
-    <i>Team lead</i><br/>
+    Team lead <br/>
     iOS squad
   </div>
   <div class="col">
-    <i>Kalido</i><br/>
+    Kalido <br/>
     UK
   </div>
   <div class="col">
-    <i>2016 – 2022</i>
+    2016 – 2022
   </div>
 </div></div>
 
@@ -93,9 +92,9 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 ### Internal contributions
 
 <div class="table"><div class="row">
-  <div class="col"><i>Committee chair</i></div>
-  <div class="col"><i>Knowledge Ninjas</i></div>
-  <div class="col"><i>2019 – 2024</i></div>
+  <div class="col">Committee chair</div>
+  <div class="col">Knowledge Ninjas</div>
+  <div class="col">2019 – 2024</div>
 </div></div>
 
 - Co-chaired committee aimed at fostering a culture of continuous learning and knowledge sharing
@@ -103,17 +102,17 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 - Organised a continuous stream of technical talks by internal and external speakers, keeping employees engaged and stimulated <!--NOTE: Change organised to organized if applying in US-->
 
 <div class="table"><div class="row">
-  <div class="col"><i>Chief editor</i></div>
-  <div class="col"><i>Company blog</i></div>
-  <div class="col"><i>2020 – present</i></div>
+  <div class="col">Chief editor</div>
+  <div class="col">Company blog</div>
+  <div class="col">2020 – present</div>
 </div></div>
 
 - Recruited authors internally and reviewed, edited, and published posts, ensuring the company website had a steady stream of interesting and relevant content at a high standard of writing
 
 <div class="table"><div class="row">
-  <div class="col"><i>Pilot participant and mentor</i></div>
-  <div class="col"><i>Mentorship program</i></div>
-  <div class="col"><i>2023 – present</i></div>
+  <div class="col">Pilot participant and mentor</div>
+  <div class="col">Mentorship program</div>
+  <div class="col">2023 – present</div>
 </div></div>
 
 - Participated in pilot program for official mentorship initiative, suggesting improvements and solving logistic issues for full rollout of program
@@ -134,12 +133,12 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 
 <div class="table"><div class="row">
   <div class="col">
-    <b>Junior software developer</b><br/>
-    Nedbank Team
+    <b>Junior software developer <br/>
+    Nedbank Team</b>
   </div>
   <div class="col">
-    <b>Net1 UEPS Technologies</b><br/>
-    South Africa
+    <b>Net1 UEPS Technologies<br/>
+    South Africa</b>
   </div>
   <div class="col">
     <b>2012</b>
