@@ -119,6 +119,10 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 - Participated in pilot program for official mentorship initiative, suggesting improvements and solving logistic issues for full rollout of program
 - Took on multiple mentees simultaneously from diverse nationalities, totalling 5 to date
 
+---------
+
+<br/>
+
 <div class="table"><div class="row">
   <div class="col"><b>Assistant lecturer</b></div>
   <div class="col"><b>University of Pretoria</b></div>

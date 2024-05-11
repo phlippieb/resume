@@ -31,7 +31,7 @@ body {
 
 @media screen and (prefers-color-scheme: dark) {
   body {
-    background-color: #222831;
+    background-color: #141414;
     color: #dddddd;
   }
 }
@@ -133,7 +133,7 @@ th {
   text-align: right;
 }
 
-@media screen and (max-width: 818px) {
+@media screen and (max-width: 650px) {
   .col {
     width: 100%;
     text-align: left;
