@@ -32,4 +32,4 @@ The `main` branch contains my complete résumé. Tailored versions for specific 
 
 ## Web version
 
-A GitHub Pages-hosted version of the resume is available at [phlippieb.github.io/resume](https://phlippieb.github.io/resume). It is not currently styled as well as the generated PDFs; this is still a work in progress.
+A GitHub Pages-hosted version of the resume is available at [phlippieb.github.io/resume](https://phlippieb.github.io/resume). It is responsive and supports dark mode.
