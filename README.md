@@ -1,6 +1,8 @@
 # Phlippie Bosman's Resume
 
-This repository contains source files for generating my résumé. The following files play the following roles:
+This repository contains source files for generating my resume. I did a write-up about [running a resume like a software project](https://phlippieb.bearblog.dev/the-resume-as-a-software-micro-project/) on my blog.
+
+The following files are important:
 
 - [resume.md](resume.md) is the source containing the structure and content of the actual résumé
 - [make-pdf.sh](make-pdf.sh) is a script that generates a PDF version of the résumé, styled according to `resume.css`, using the `pandoc` command
@@ -32,4 +34,4 @@ The `main` branch contains my complete résumé. Tailored versions for specific 
 
 ## Web version
 
-A GitHub Pages-hosted version of the resume is available at [phlippieb.github.io/resume](https://phlippieb.github.io/resume). It is not currently styled as well as the generated PDFs; this is still a work in progress.
+A GitHub Pages-hosted version of the resume is available at [phlippieb.github.io/resume](https://phlippieb.github.io/resume). It is responsive and supports dark mode.
