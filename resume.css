@@ -1,12 +1,14 @@
 body {
-  padding-top: 0.6in;
-  padding-bottom: 0.6in;
-  padding-left: 1.5in;
-  padding-right: 1.5in;
   font-family: "Inter", sans-serif;
-  font-size: 16px;
   background-color: white;
   color: black;
+}
+
+@media print {
+  body {
+    padding: 0px;
+    font-size: 12px;
+  }
 }
 
 /* Layout for large screens */
@@ -55,13 +57,23 @@ h1 {
 
 h2,
 h3 {
-  font-size: 18px;
+  font-size: 14px;
+}
+@media screen {
+  h2, h3 {
+    font-size: 18px;
+  }
 }
 
 h2 {
-  margin-top: 50px;
+  margin-top: 30px;
   border-bottom: 1px solid black;
   padding-bottom: 4px;
+}
+@media screen {
+  h2 {
+    margin-top: 50px;
+  }
 }
 @media screen and (prefers-color-scheme: dark) {
   h2 {
@@ -70,8 +82,13 @@ h2 {
 }
 
 h3 {
-  margin-top: 36px;
+  margin-top: 20px;
   font-weight: normal;
+}
+@media screen {
+  h3 {
+    margin-top: 36px;
+  }
 }
 
 /* Table divs for item headings */
