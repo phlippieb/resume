@@ -22,7 +22,6 @@ Swift (8 years experience), Objective-C, iOS, GitHub Actions, Firebase, Fastlane
     
 - Developed sowftware as a native iOS engineer as well as other technologies and paradigms across mobile, frontend, and backend to deliver quality software on diverse client projects
 - Led inter-organisational teams, cultivated deep client relationships, and fostered an internal culture of continuous learning
-- Designed and hosted workshops, educating graduates about best practices regarding clean code and maintainability at industry level
 
 ### Client projects
 
@@ -83,29 +82,12 @@ Swift (8 years experience), Objective-C, iOS, GitHub Actions, Firebase, Fastlane
 
 ### Internal contributions
 
-<div class="table"><div class="row">
-  <div class="col">Knowledge Ninjas</div>
-  <div class="col">2019 – 2024</div>
-</div></div>
-
 - Co-chaired committee aimed at fostering a culture of continuous learning and knowledge sharing
 - Co-organised 3 internal conferences, showcasing a total of 34 speakers to 500+ attendees <!--NOTE: Change organised to organized if applying in US-->
 - Organised a continuous stream of technical talks by internal and external speakers, keeping employees engaged and stimulated <!--NOTE: Change organised to organized if applying in US-->
-
-<div class="table"><div class="row">
-  <div class="col">Chief editor</div>
-  <div class="col">Company blog</div>
-  <div class="col">2020 – present</div>
-</div></div>
-
 - Recruited authors internally and reviewed, edited, and published posts, ensuring the company website had a steady stream of interesting and relevant content at a high standard of writing
-
-<div class="table"><div class="row">
-  <div class="col">Mentorship program</div>
-  <div class="col">2023 – present</div>
-</div></div>
-
 - Participated in pilot program for official mentorship initiative, suggesting improvements and solving logistic issues for full rollout of program
+- Designed and hosted workshops, educating graduates about best practices regarding clean code and maintainability at industry level
 
 ## Education
 
