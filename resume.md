@@ -60,7 +60,7 @@ Swift (8 years experience), Objective-C, UIKit, GitHub Actions, Firebase, Fastla
   </div>
 </div></div>
 
-- Led team of 4 in developing native iOS app for [WEF-named technology pioneer](https://widgets.weforum.org/techpioneers-2020/kalido/) talent marketplace product
+- Led team of 4 in developing native iOS app for [WEF technology pioneer](https://widgets.weforum.org/techpioneers-2020/kalido/) talent marketplace product
 - Implemented and released features such as real-time, scalable, multi-user, multimedia-enabled messaging over bidirectional gRPC streams with Realm caching
 - Designed APIs in Protocol Buffers and maintained a Go-based backend-for-mobile service layer, keeping data transmissions maximally efficient without complicating core server implementation
 - Introduced modularization to 100k+ line codebase using SPM, improving build times and developer efficiency
@@ -70,7 +70,7 @@ Swift (8 years experience), Objective-C, UIKit, GitHub Actions, Firebase, Fastla
 
 - Co-chaired committee aimed at fostering a culture of continuous learning and knowledge sharing
 - Co-organized 3 internal conferences, showcasing a total of 34 speakers to 500+ attendees
-- Organized a continuous stream of technical talks by internal and external speakers, keeping employees engaged and stimulated
+- Organized a continuous stream of technical talks by internal and external speakers, keeping employees engaged
 - Recruited authors for posts on company blog internally and reviewed, edited, and published posts, ensuring a steady stream of interesting and relevant content at a high standard of writing
 - Participated in pilot program for official mentorship initiative, suggesting improvements, solving logistical issues for full rollout of program, and mentoring 5 colleagues to date
 - Designed and hosted workshops to educate graduates about best practices regarding clean code and maintainability
