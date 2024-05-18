@@ -36,6 +36,12 @@ The `main` branch contains my complete résumé. Tailored versions for specific 
 
 To release to GitHub Pages (see Web version), merge into the `gh-pages` branch.
 
+### Spelling and grammar checking
+
+Spelling and grammar can be checked locally. I currently use Gramma: https://caderek.github.io/gramma
+
+Example usage: `gramma check resume.md`
+
 ## Web version
 
 A GitHub Pages-hosted version of the resume is available at [phlippieb.github.io/resume](https://phlippieb.github.io/resume). It is responsive and supports dark mode.
