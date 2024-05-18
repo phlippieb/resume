@@ -2,6 +2,12 @@
 
 This repository contains source files for generating my resume. I did a write-up about [running a resume like a software project](https://phlippieb.bearblog.dev/the-resume-as-a-software-micro-project/) on my blog.
 
+It can be used to generate a PDF-format resume, as well as a PDF-format cover letter, for various applications. It also acts as the source for a Github Pages-hosted version of the unabridged resume.
+
+## Web version
+
+A GitHub Pages-hosted version of the resume is available at [phlippieb.github.io/resume](https://phlippieb.github.io/resume). It is responsive and supports dark mode.
+
 ## Install
 
 This repo requires you to install some dependencies.
@@ -32,7 +38,7 @@ The resume uses the Inter font. [Get it here](https://rsms.me/inter/#).
 
 ## Usage
 
-To work on the resume: edit `resume.md` to edit the content of the resume, and edit `resume.css` to change the style of the produced PDF or HTML. Run `make pdf` to generate a PDF format resume artifact. Run `make html` to generate a web page format, as it will be displayed on Github Pages (see Web Version below).
+To work on the resume: edit `resume.md` to edit the content of the resume, and edit `resume.css` to change the style of the produced PDF or HTML. Run `make pdf` to generate a PDF format resume artifact. Run `make html` to generate a web page format, as it will be displayed on Github Pages (see Web Version).
 
 To work on the cover letter: edit `cover-letter.md` to edit the content of the cover letter, and edit `cover-letter.css` to change the style of the produced PDF. Run `make cover-letter` to generate a PDF format cover letter.
 
@@ -48,8 +54,5 @@ Example usage: `gramma check resume.md`
 
 The `main` branch contains my complete resume. Tailored versions for specific applications are "released" by cutting a release branch, editing the content in `resume.md`, and generating a PDF.
 
-To release to GitHub Pages (see Web version), merge into the `gh-pages` branch.
+To release to GitHub Pages (see Web Version), merge into the `gh-pages` branch.
 
-## Web version
-
-A GitHub Pages-hosted version of the resume is available at [phlippieb.github.io/resume](https://phlippieb.github.io/resume). It is responsive and supports dark mode.
