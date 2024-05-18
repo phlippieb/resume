@@ -21,7 +21,7 @@ Swift (8 years experience), Objective-C, UIKit, GitHub Actions, Firebase, Fastla
 </div></div>
     
 - Worked in various technologies and paradigms across mobile, frontend, and backend, primarily focusing on native iOS, to deliver quality software on diverse client projects
-- Led international and inter-organizational teams and fostered an internal culture of continuous learning
+- Led international and interorganizational teams and fostered an internal culture of continuous learning
 
 ### Client projects
 
@@ -39,7 +39,7 @@ Swift (8 years experience), Objective-C, UIKit, GitHub Actions, Firebase, Fastla
   </div>
 </div></div>
 
-- Co-led team of 8 implementing new mobile app for South Africa's largest medical scheme with 2.8M customers
+- Co-led team of 8 implementing a new mobile app for South Africa's largest medical scheme with 2.8M customers
 - Maintained and unit-tested Swift- and Objective-C-based native iOS code modules providing all functionality for personal and company-issued medical insurance
 - Coordinated and participated in production support, addressing user issues and collaborating across teams to drive problem resolution
 - Designed library of Dart modules for reusability across product houses through a process of proposing RFCs, writing abstract interfaces, and releasing standalone federated plugins
