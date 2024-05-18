@@ -1,0 +1,11 @@
+body {
+  font-family: "Inter", sans-serif;
+  background-color: white;
+  color: black;
+  padding: 0px;
+  font-size: 12px;
+}
+
+.address {
+  line-height: 18px;
+}
