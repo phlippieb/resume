@@ -1,12 +1,12 @@
 <!-- NOTE: Title will be added by pandoc -->
 <!-- # Phlippie Bosman -->
 
-<br/>
-<div class="table"><div class="row">
-  <div class="col"><a href="mailto:phlippie.bosman@gmail.com">phlippie.bosman@gmail.com</a></div>
-  <div class="col"><a href="https://github.com/phlippieb">github.com/phlippieb</a></div>
-  <div class="col"><a href="https://phlippieb.bearblog.dev">phlippieb.bearblog.dev</a></div>
-</div></div>
+
+phlippie.bosman@gmail.com
+•
+github.com/phlippieb
+•
+phlippieb.bearblog.dev
 
 <div id="container">
 <div id="first">
@@ -20,6 +20,7 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 
 ## Education
 
+<!--
 <div class="table"><div class="row">
   <div class="col">
     Master of Science (Distinction)<br/>
@@ -33,6 +34,10 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
     2019
   </div>
 </div></div>
+-->
+Master of Science (Distinction), Computer Science<br>
+University of Pretoria, South Africa <br>
+2019
 
 </div>
 <div id="clear"></div>

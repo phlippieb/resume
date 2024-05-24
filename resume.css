@@ -146,22 +146,19 @@ li {
 /* Experiment - place skills and education side-by-side */
 #container {
     width: 100%;
-    /* background-color: #ffcc33; */
     margin: auto;
 }
 #first {
-    width: 44%;
+    width: 48%;
     float: left;
     height: 100%;
-    /* background-color: blue; */
     padding-right: 10px;
 }
 
 #second {
-    width: 54%;
+    width: 50%;
     float: left;
     height: 100%;
-    /* background-color: green; */
 }
 #clear {
     clear: both;
