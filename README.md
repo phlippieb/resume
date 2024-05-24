@@ -54,5 +54,14 @@ Example usage: `gramma check resume.md`
 
 The `main` branch contains my complete resume. Tailored versions for specific applications are "released" by cutting a release branch, editing the content in `resume.md`, and generating a PDF.
 
+To action an application:
+1. Check out a release branch named like `application/<ISSUE NO>/<COMPANY NAME>`, where ISSUE NO is the number of the issue corresponding to the application
+2. Update `resume.pdf` and `resume.css` as needed to create an application-specific resume
+3. Create a release ((here)[https://github.com/phlippieb/resume/releases])
+   - Name the release like `<COMPANY NAME>-v1.0.0`; bump the version for subsequent updates
+   - Create a new tag (in GitHub) named like `<company name>-v1.0.0` (Company name in lowercase letters)
+   - Upload the PDF version of the resume
+4. Close the corresponding issue
+
 To release to GitHub Pages (see Web Version), merge into the `gh-pages` branch.
 
