@@ -51,7 +51,7 @@ body a {
 
 h1 {
   font-family: "Prata", "Inter", sans-serif;
-  font-size: 24px;
+  font-size: 23px;
   margin: 0;
   margin-bottom: -6px;
   font-weight: 900;
@@ -142,3 +142,28 @@ ul li:before {
 li {
   margin-bottom: 4px;
 }
+
+/* Experiment - place skills and education side-by-side */
+#container {
+    width: 100%;
+    /* background-color: #ffcc33; */
+    margin: auto;
+}
+#first {
+    width: 44%;
+    float: left;
+    height: 100%;
+    /* background-color: blue; */
+    padding-right: 10px;
+}
+
+#second {
+    width: 54%;
+    float: left;
+    height: 100%;
+    /* background-color: green; */
+}
+#clear {
+    clear: both;
+}
+

@@ -8,9 +8,15 @@
   <div class="col"><a href="https://phlippieb.bearblog.dev">phlippieb.bearblog.dev</a></div>
 </div></div>
 
+<div id="container">
+<div id="first">
+
 ## Skills
 
 Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastlane, Realm, gRPC, Protocol Buffers
+
+</div>
+<div id="second">
 
 ## Education
 
@@ -27,6 +33,10 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
     2019
   </div>
 </div></div>
+
+</div>
+<div id="clear"></div>
+</div>
 
 ## Experience
 
