@@ -52,7 +52,7 @@ Example usage: `gramma check resume.md`
 
 ## Workflow
 
-This project follows [trunk-based development](https://trunkbaseddevelopment.com/).The `main` branch contains my complete resume. Tailored versions for specific applications are "released" by cutting a release branch, editing the content in `resume.md`, and generating a PDF.
+This project follows [trunk-based development](https://trunkbaseddevelopment.com/). The `main` branch contains my complete resume. Tailored versions for specific applications are "released" by cutting a release branch, editing the content in `resume.md`, and generating a PDF.
 
 To action an application:
 1. Check out a release branch named like `application/<ISSUE NO>/<COMPANY NAME>`, where ISSUE NO is the number of the issue corresponding to the application
