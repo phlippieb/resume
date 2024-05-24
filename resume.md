@@ -12,6 +12,22 @@
 
 Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastlane, Realm, gRPC, Protocol Buffers
 
+## Education
+
+<div class="table"><div class="row">
+  <div class="col">
+    Master of Science (Distinction)<br/>
+    Computer Science
+  </div>
+  <div class="col">
+    University of Pretoria<br/>
+    South Africa
+  </div>
+  <div class="col">
+    2019
+  </div>
+</div></div>
+
 ## Experience
 
 <div class="table"><div class="row">
@@ -117,58 +133,4 @@ Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastl
 
 - Participated in pilot program for official mentorship initiative, suggesting improvements and solving logistic issues for full rollout of program
 - Took on multiple mentees simultaneously from diverse nationalities, totalling 5 to date
-
----------
-
-<br/>
-
-<div class="table"><div class="row">
-  <div class="col"><b>Assistant lecturer</b></div>
-  <div class="col"><b>University of Pretoria</b></div>
-  <div class="col"><b>2013 – 2015</b></div>
-</div></div>
-
-- Prepared and presented lectures for undergraduate computer science modules
-- Set assessment tasks, including exams, tests, and exercises
-
-<div class="table"><div class="row">
-  <div class="col">
-    <b>Junior software developer <br/>
-    Nedbank Team</b>
-  </div>
-  <div class="col">
-    <b>Net1 UEPS Technologies<br/>
-    South Africa</b>
-  </div>
-  <div class="col">
-    <b>2012</b>
-  </div>
-</div></div>
-
-- Investigated production incidents involving transactions through a major South African bank's point-of-sale transaction switch system
-- Performed maintenance work to align system to ISO standards updates
-
-<div class="table"><div class="row">
-  <div class="col"><b>Tutor</b></div>
-  <div class="col"><b>University of Pretoria</b></div>
-  <div class="col"><b>2010 – 2011</b></div>
-</div></div>
-
-- Assisted with practical lab sessions and assessment marking for undergraduate computer science modules
-
-## Education
-
-<div class="table"><div class="row">
-  <div class="col">
-    Master of Science (Distinction)<br/>
-    Computer Science
-  </div>
-  <div class="col">
-    University of Pretoria<br/>
-    South Africa
-  </div>
-  <div class="col">
-    2019
-  </div>
-</div></div>
 
