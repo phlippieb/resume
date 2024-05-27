@@ -12,7 +12,7 @@ phlippieb.bearblog.dev
 
 ## Skills
 
-Swift, Objective-C, iOS, UIKit, Firebase, Fastlane, Realm, CI/CD, Unit testing
+Swift (8 years experience), Objective-C, iOS, UIKit, Firebase, Fastlane, Realm, CI/CD, Unit testing
 
 </div>
 <div id="second">
@@ -34,10 +34,10 @@ University of Pretoria, South Africa, 2019
   <div class="col"><b>2016 – present</b></div>
 </div></div>
     
-- Led interorganizational teams developing software for diverse client projects in a variety of technology stacks, specialising in native iOS
+- Led interorganizational teams developing software for diverse client projects in a variety of technology stacks, specializing in native iOS
 - Interviewed potential candidates and held mock interviews to prepare employees for client placement
-- Designed and hosted workshops to educate graduates about best practices regarding clean code
-- Guided mentees from diverse nationalities in internal mentorship program
+- Designed and hosted workshops to educate new hires about best practices regarding clean and maintainable code
+- Offered structured guidance to mentees from diverse nationalities in internal mentorship program
 
 ### Projects
 
