@@ -82,7 +82,7 @@ Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions
   </div>
 </div></div>
 
-- Led team of 4 in developing native iOS app for UK-based talent marketplace product that was named a [World Economic Forum Technology Pioneer in 2020](https://widgets.weforum.org/techpioneers-2020/kalido/)
+- Led team of 4 in developing the native iOS app for [WEF-named Technology Pioneer](https://widgets.weforum.org/techpioneers-2020/kalido) talent marketplace product
 - Implemented and released dozens of features, including real-time, scalable, multi-user, multimedia-enabled messaging using bidirectional gRPC streams with Realm caching
 - Designed APIs using Protocol Buffers and maintained a Go-based backend-for-mobile service layer, keeping data transmissions maximally efficient without complicating core server implementation
 - Refactored features to be toggle-able by Firebase feature flags, enabling demos of pre-release features and real-time response to production issues
