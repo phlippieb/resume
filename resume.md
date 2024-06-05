@@ -10,7 +10,7 @@
 
 ## Skills
 
-Swift, Objective-C, iOS, Dart, Flutter, Bitrise, GitHub Actions, Firebase, Fastlane, Realm, gRPC, Protocol Buffers
+Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions, CI/CD, Firebase, Fastlane, Realm, gRPC, Protocol Buffers, unit testing, TDD, open source
 
 ## Experience
 
