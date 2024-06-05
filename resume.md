@@ -20,10 +20,10 @@ Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions
   <div class="col"><b>2016 – present</b></div>
 </div></div>
     
-- Upskilled in various technologies and paradigms across mobile, frontend, and backend to deliver quality software on diverse client projects
-- Led inter-organisational teams, cultivated deep client relationships, and fostered an internal culture of continuous learning
+- Worked in various technologies and paradigms across mobile, frontend, and backend to deliver quality software on diverse client projects, specialising in native iOS
+- Led international and interorganisational teams, cultivated deep client relationships, and fostered an internal culture of continuous learning
 - Interviewed potential candidates and held mock interviews to prepare employees for client placement
-- Designed and hosted workshops, educating graduates about best practices regarding clean code and maintainability at industry level
+- Designed and hosted workshops to educate graduates about best practices regarding clean and maintainable code
 
 ### Client projects
 
