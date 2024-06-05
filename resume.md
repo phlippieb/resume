@@ -45,7 +45,7 @@ Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions
 - Designed library of modules for reusability across product houses through a process of proposing RFCs, writing abstract interfaces, and releasing standalone federated plugins
 - Instilled usage of BLoC, dependency injection, and feature flag patterns through reference implementations and code reviews
 - Set up release pipelines on GitHub Actions and Bitrise into Firebase App Distribution, App Store Connect, and Google Play to provide QA with nightly builds and streamline app store releases, enabling all team members to take app live
-- Integrated in-house iOS-native biometric authentication SDK as a Flutter plugin, connecting native Swift code to Dart, improving user experience and aligning with organisation security standards <!--NOTE: Change organisation to organization if applying in US-->
+- Integrated in-house iOS-native biometric authentication SDK as a Flutter plugin, connecting native Swift code to Dart, improving user experience and aligning with organisation security standards
 - Engaged stakeholders, converting business cases to road maps with linked issues, reporting regularly on install- and crash stats, and proactively negotiating roadblocks
 
 <div class="table"><div class="row">
@@ -86,7 +86,7 @@ Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions
 - Implemented and released dozens of features, including real-time, scalable, multi-user, multimedia-enabled messaging using bidirectional gRPC streams with Realm caching
 - Designed APIs using Protocol Buffers and maintained a Go-based backend-for-mobile service layer, keeping data transmissions maximally efficient without complicating core server implementation
 - Refactored features to be toggle-able by Firebase feature flags, enabling demos of pre-release features and real-time response to production issues
-- Introduced modularisation to 100k+ line codebase, improving build times and developer efficiency <!--NOTE: Change modularisation to modularization if applying in US-->
+- Introduced modularisation to 100k+ line codebase, improving build times and developer efficiency
 - Triaged and fixed hundreds of production user issues
 
 ### Internal contributions
@@ -98,8 +98,8 @@ Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions
 </div></div>
 
 - Co-chaired committee aimed at fostering a culture of continuous learning and knowledge sharing
-- Co-organised 3 internal conferences, showcasing a total of 34 speakers to 500+ attendees <!--NOTE: Change organised to organized if applying in US-->
-- Organised a continuous stream of technical talks by internal and external speakers, keeping employees engaged and stimulated <!--NOTE: Change organised to organized if applying in US-->
+- Co-organised 3 internal conferences, showcasing a total of 34 speakers to 500+ attendees
+- Organised a continuous stream of technical talks by internal and external speakers, keeping employees engaged and stimulated
 
 <div class="table"><div class="row">
   <div class="col">Chief editor</div>
