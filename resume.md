@@ -23,6 +23,8 @@ Swift (8 years), Objective-C, UIKit, Firebase, Fastlane, Realm, Unit Testing, TD
 - Designed and hosted workshops to train graduates in best practices regarding clean and maintainable code
 - Interviewed potential candidates and held mock interviews to prepare employees for client placement
 
+#### Projects
+
 <div class="table"><div class="row">
   <div class="col">
     iOS technical lead <br/>
