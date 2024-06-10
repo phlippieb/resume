@@ -10,63 +10,40 @@
 
 ## Skills
 
-Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions, CI/CD, Firebase, Fastlane, Realm, gRPC, Protocol Buffers, unit testing, TDD, open source
-
+Swift (8 years), Objective-C, UIKit, Firebase, Fastlane, Realm, Unit Testing, TDD, Bitrise, GitHub Actions, CI/CD
 ## Experience
 
 <div class="table"><div class="row">
-  <div class="col"><b>Senior software developer</b></div>
+  <div class="col"><b>Senior iOS developer</b></div>
   <div class="col"><b>Retro Rabbit Enterprise Services</b></div>
   <div class="col"><b>2016 – present</b></div>
 </div></div>
     
-- Worked in various technologies and paradigms across mobile, frontend, and backend to deliver quality software on diverse client projects, specialising in native iOS
-- Led international and interorganisational teams, cultivated deep client relationships, and fostered an internal culture of continuous learning
+- Led international and interorganisational teams working in various technologies and paradigms across mobile, frontend, and backend, specialising in native iOS, to deliver quality software on projects ranging from enterprises to startups
+- Designed and hosted workshops to train graduates in best practices regarding clean and maintainable code
 - Interviewed potential candidates and held mock interviews to prepare employees for client placement
-- Designed and hosted workshops to educate graduates about best practices regarding clean and maintainable code
-
-### Client projects
-
-<div class="table"><div class="row">
-  <div class="col">
-    Mobile technical lead <br/>
-    Health App
-  </div>
-  <div class="col">
-    Discovery Limited <br/>
-    South Africa
-  </div>
-  <div class="col">
-    2023 – 2024
-  </div>
-</div></div>
-
-- Co-led team of 8 implementing new Flutter-based mobile app for South Africa's largest medical scheme with 2.8M customers
-- Designed library of modules for reusability across product houses through a process of proposing RFCs, writing abstract interfaces, and releasing standalone federated plugins
-- Instilled usage of BLoC, dependency injection, and feature flag patterns through reference implementations and code reviews
-- Set up release pipelines on GitHub Actions and Bitrise into Firebase App Distribution, App Store Connect, and Google Play to provide QA with nightly builds and streamline app store releases, enabling all team members to take app live
-- Integrated in-house iOS-native biometric authentication SDK as a Flutter plugin, connecting native Swift code to Dart, improving user experience and aligning with organisation security standards
-- Engaged stakeholders, converting business cases to road maps with linked issues, reporting regularly on install- and crash stats, and proactively negotiating roadblocks
 
 <div class="table"><div class="row">
   <div class="col">
     iOS technical lead <br/>
-    Health Module for Mobile App
+    Health App & iOS App Health Module<!-- TODO: Make it fit on one line after styling -->
   </div>
   <div class="col">
     Discovery Limited <br/>
     South Africa
   </div>
   <div class="col">
-    2022 – 2023
+    2022 – 2024
   </div>
 </div></div>
 
-- Maintained Swift- and Objective-C-based native iOS code modules providing all functionality for personal and company-issued medical insurance across 4 independent schemes to 3M+ customers
-- Coordinated and participated in production support, addressing user issues and collaborating across teams to drive problem resolution
-- Implemented version-bump automation in GitHub Actions and Fastlane to unblock code merging conflicts and improve team throughput
-- Introduced SwiftLint to keep code reviews focused on content over style
-- Translated high-level stakeholder feature requests to implementation plans in absence of business representation
+<!-- TODO: Managed is better; bring into core -->
+- Led team of 8 managing Swift- and Objective-C-based native iOS code modules with all functionality for medical insurance across 4 independent schemes, including South Africa's largest medical insurer, to 3M+ customers
+- Implemented and unit-tested features such as biometric authentication, planned and performed code maintenance in response to organisational and dependency updates, and coordinated and participated in production support, addressing user issues and collaborating across teams to drive problem resolution
+- Instilled usage of best-practice design patterns, dependency injection, and feature flags through reference implementations and code reviews
+- Designed library of modules for reusability across product houses through a process of proposing RFCs, writing abstract interfaces, and releasing standalone federated plugins
+- Set up release pipelines on GitHub Actions and Bitrise into Firebase App Distribution, App Store Connect, and Google Play to provide nightly builds and streamline app store releases, enabling all team members to take app live
+- Implemented version-bump automation in GitHub Actions and Fastlane to unblock code merging conflicts and improve team throughput, and introduced SwiftLint to keep code reviews focused on content over style
 
 <div class="table"><div class="row">
   <div class="col">
@@ -83,13 +60,10 @@ Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions
 </div></div>
 
 - Led team of 4 in developing the native iOS app for [WEF-named Technology Pioneer](https://widgets.weforum.org/techpioneers-2020/kalido) talent marketplace product
-- Implemented and released dozens of features, including real-time, scalable, multi-user, multimedia-enabled messaging using bidirectional gRPC streams with Realm caching
+- Implemented and released features such as real-time, scalable, multi-user, multimedia-enabled messaging using bidirectional gRPC streams with Realm caching
 - Designed APIs using Protocol Buffers and maintained a Go-based backend-for-mobile service layer, keeping data transmissions maximally efficient without complicating core server implementation
-- Refactored features to be toggle-able by Firebase feature flags, enabling demos of pre-release features and real-time response to production issues
 - Introduced modularisation to 100k+ line codebase, improving build times and developer efficiency
-- Triaged and fixed hundreds of production user issues
-
-### Internal contributions
+- Triaged and fixed hundreds of production user issues, securing customer satisfaction and improving code robustness
 
 <div class="table"><div class="row">
   <div class="col">Committee chair</div>
@@ -97,64 +71,10 @@ Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions
   <div class="col">2019 – 2024</div>
 </div></div>
 
-- Co-chaired committee aimed at fostering a culture of continuous learning and knowledge sharing
+- Chaired internal committee aimed at fostering a culture of continuous learning and knowledge sharing
 - Co-organised 3 internal conferences, showcasing a total of 34 speakers to 500+ attendees
-- Organised a continuous stream of technical talks by internal and external speakers, keeping employees engaged and stimulated
-
-<div class="table"><div class="row">
-  <div class="col">Chief editor</div>
-  <div class="col">Company blog</div>
-  <div class="col">2020 – present</div>
-</div></div>
-
-- Recruited authors internally and reviewed, edited, and published posts, ensuring the company website had a steady stream of interesting and relevant content at a high standard of writing
-
-<div class="table"><div class="row">
-  <div class="col">Pilot participant and mentor</div>
-  <div class="col">Mentorship program</div>
-  <div class="col">2023 – present</div>
-</div></div>
-
-- Participated in pilot program for official mentorship initiative, suggesting improvements and solving logistic issues for full rollout of program
-- Took on multiple mentees simultaneously from diverse nationalities, totalling 5 to date
-
----------
-
-<br/>
-
-<div class="table"><div class="row">
-  <div class="col"><b>Assistant lecturer</b></div>
-  <div class="col"><b>University of Pretoria</b></div>
-  <div class="col"><b>2013 – 2015</b></div>
-</div></div>
-
-- Prepared and presented lectures for undergraduate computer science modules
-- Set assessment tasks, including exams, tests, and exercises
-
-<div class="table"><div class="row">
-  <div class="col">
-    <b>Junior software developer <br/>
-    Nedbank Team</b>
-  </div>
-  <div class="col">
-    <b>Net1 UEPS Technologies<br/>
-    South Africa</b>
-  </div>
-  <div class="col">
-    <b>2012</b>
-  </div>
-</div></div>
-
-- Investigated production incidents involving transactions through a major South African bank's point-of-sale transaction switch system
-- Performed maintenance work to align system to ISO standards updates
-
-<div class="table"><div class="row">
-  <div class="col"><b>Tutor</b></div>
-  <div class="col"><b>University of Pretoria</b></div>
-  <div class="col"><b>2010 – 2011</b></div>
-</div></div>
-
-- Assisted with practical lab sessions and assessment marking for undergraduate computer science modules
+- Organised a continuous stream of technical talks by internal and external speakers, keeping employees engaged
+- As chief editor for company blog, recruited authors internally and reviewed, edited, and published posts, ensuring the website had a steady stream of interesting and relevant content at a high standard of writing
 
 ## Education
 
