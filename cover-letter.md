@@ -12,31 +12,28 @@ phlippie.bosman@gmail.com<br/>
 -->
 
 <p class="address">
-<!-- TODO: Address. Example below:
-Wikimedia Foundation, Inc.<br>
-1 Montgomery Street<br>
-Suite 1600<br>
-San Francisco, California 94104<br>
-USA<br/>
--->
+Cultured Code GmbH & Co. KG<br>
+Dieselstraße 28<br>
+70469 Stuttgart<br>
+Germany<br>
 </p>
 
 Dear Hiring Manager:
 
-I'm writing in reference to the <!--TODO:JOB-TITLE--> opening at <!--TODO:COMPANY.--><!-- TODO: Explain why I'm interested in the role. Example below: 
- I find the Wikipedia iOS app a joy to use, and so I was thrilled to discover that the organization behind it are hiring from my own field. It would be a pleasure to contribute to a software product of such high quality, and to be able to learn from it. Additionally, I was drawn to apply for this role for these reasons: there seem to be interesting challenges, such as extensive localization and highly dynamic content; I admire that the project is open source; and I would love to experience working in an effective, large, remote team.
--->
+I am writing to express my keen interest in working at Cultured Code as a Swift developer, even though there are currently no open positions advertised.
 
-I hope my accompanying resume will win me your consideration for the role, but in short, I believe I could be a valuable addition to the team for a few reasons. <!-- TODO: Motivate why I'd be good for the role. Example below:
-I have eight years of experience with iOS programming in Swift and Objective-C. This experience includes work on large and complex code bases within complex organizations, where I have taken iOS applications from inception to production and provided hands-on end-user support and bug fixing. The teams I've worked with in the last 5 years had a mixed-remote makeup, with some members residing in other countries. Lastly, as a South African, I might be able to offer a fresh perspective in terms of tolerance to and performance under conditions of low bandwidth and frequent network outages, which I think could improve the experience for all users.
--->
+I am an avid user of Things 3 and strongly believe it is the most carefully-designed and well-considered app of its kind; I frequently test other task management apps, but always conclude that Things 3 is still best-in-class. It would therefore be a great pleasure for me to be a part of it. I especially admire your organisation's resistance to unnecessary feature bloat, and your knack for executing seemingly simple things perfectly, which is not an easy feat.
 
-To summarize, <!-- TODO: Reiterate interest in position and enthusiasm to use my skills to contrinute to the work of the organisation. Thank the reader for their consideration of my application. State that I look forward to the opportunity to further discuss the position. Example below:
-I admire the work done by the Wikimedia Foundation and would be thrilled to have the opportunity to use my skills to contribute to your work. Thank you for considering my application. I am looking forward to hearing back and further discuss the position.
--->
+My attached CV contains more details about my professional experience and skill set, but in short, I have over 8 years of experience developing mobile apps in Swift, I am deeply interested in techniques for writing clean and well-designed code, and I highly value learning and knowledge sharing. 
+I have spent the longest stretch of my career doing contract work as a team lead on a small startup with many of the team members working from different countries.
+I have taken apps from inception to production, but more importantly, I have stayed on projects long enough to see the impact of software design choices, and learned how to structure code in service of long-term maintenance.
+I am also very eager to get hands-on experience with production-level Mac application development.
+
+With Cultured Code being headquartered in Germany, I trust it's relevant to add that I am fluent in English, but my home language (Afrikaans) is a Germanic language which is helpful in my current endeavour to learn German.
+
+I would be grateful for your consideration if a new position as a Swift developer opens up at Cultured Code. I would also be happy to do part-time contract work, should you need it. Please do not hesitate to contact me if you have any questions.
 
 Sincerely,
 
 Phlippie Bosman
 
-<!-- More on writing a cover letter: https://cdn-careerservices.fas.harvard.edu/wp-content/uploads/sites/161/2023/08/College-resume-and-cover-letter-4.pdf -->
