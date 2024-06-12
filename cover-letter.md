@@ -22,7 +22,7 @@ Dear Hiring Manager:
 
 I am writing to express my keen interest in working at Cultured Code as a Swift developer, even though there are currently no open positions advertised.
 
-I am an avid user of Things 3 and strongly believe it is the most carefully-designed and well-considered app of its kind; I frequently test other task management apps, but always conclude that Things 3 is still best-in-class. It would therefore be a great pleasure for me to be a part of it. I especially admire your organisation's resistance to unnecessary feature bloat, and your knack for executing seemingly simple things perfectly, which is not an easy feat.
+I am an avid user of Things 3 and strongly believe it is the most carefully-designed and well-considered app of its kind; I frequently test other task management apps, and always conclude that Things 3 is best-in-class. It would therefore be a great pleasure for me to be a part of it. I especially admire your organisation's resistance to unnecessary feature bloat, and your knack for executing seemingly simple things perfectly, which is not an easy feat.
 
 My attached CV contains more details about my professional experience and skill set, but in short, I have over 8 years of experience developing mobile apps in Swift, I am deeply interested in techniques for writing clean and well-designed code, and I highly value learning and knowledge sharing. 
 I have spent the longest stretch of my career doing contract work as a team lead on a small startup with many of the team members working from different countries.
