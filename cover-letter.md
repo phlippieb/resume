@@ -7,9 +7,7 @@ South Africa<br/>
 phlippie.bosman@gmail.com<br/>
 </p>
 
-<!-- TODO: TODAY's date: Update before sending!
-13 May 2024
--->
+12 June 2024
 
 <p class="address">
 Cultured Code GmbH & Co. KG<br>
