@@ -6,7 +6,7 @@ It can be used to generate a PDF-format resume, as well as a PDF-format cover le
 
 ## Web version
 
-A GitHub Pages-hosted version of the resume is available at [phlippieb.github.io/resume](https://phlippieb.github.io/resume). It is responsive and supports dark mode.
+A GitHub Pages-hosted version of the resume is available at [resume.phlippieb.dev](https://resume.phlippieb.dev). It is responsive and supports dark mode.
 
 ## Install
 
