@@ -15,6 +15,23 @@ Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions
 ## Experience
 
 <div class="table"><div class="row">
+  <div class="col"><b>Solo developer (side project)</b></div>
+  <div class="col"><b>Daily Budget iOS application</b></div>
+  <div class="col"><b>2024</b></div>
+</div></div>
+
+- Designed, implemented and published a new mobile application, allowing users to create budgets which allocate accumulating daily amounts and track their spending, currently rated at 5 stars with 37 downloads
+- Leveraged SwiftUI and Swift Data to create a modern and lightweight codebase with no 3rd-party dependencies, featuring iCloud-backed data persistence
+
+<div class="table"><div class="row">
+  <div class="col"><b>Solo developer (side project)</b></div>
+  <div class="col"><b>Personal website</b></div>
+  <div class="col"><b>2024</b></div>
+</div></div>
+
+- Designed, implemented and published my personal website built in Astro JS without the use of templates to host my technical blog and showcase my portfolio
+ 
+<div class="table"><div class="row">
   <div class="col"><b>Senior software developer</b></div>
   <div class="col"><b>Retro Rabbit Enterprise Services</b></div>
   <div class="col"><b>2016 – present</b></div>
@@ -117,8 +134,6 @@ Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions
 
 - Participated in pilot program for official mentorship initiative, suggesting improvements and solving logistic issues for full rollout of program
 - Took on multiple mentees simultaneously from diverse nationalities, totalling 5 to date
-
----------
 
 <br/>
 
