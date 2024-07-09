@@ -5,7 +5,7 @@
 <div class="table"><div class="row">
   <div class="col"><a href="mailto:phlippie.bosman@gmail.com">phlippie.bosman@gmail.com</a></div>
   <div class="col"><a href="https://github.com/phlippieb">github.com/phlippieb</a></div>
-  <div class="col"><a href="https://phlippieb.bearblog.dev">phlippieb.bearblog.dev</a></div>
+  <div class="col"><a href="https://phlippieb.dev">phlippieb.dev</a></div>
 </div></div>
 
 ## Skills
