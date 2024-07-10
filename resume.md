@@ -10,7 +10,50 @@
 
 ## Skills
 
-Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions, CI/CD, Firebase, Fastlane, Realm, gRPC, Protocol Buffers, unit testing, TDD, open source
+<!-- Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions, CI/CD, Firebase, Fastlane, Realm, gRPC, Protocol Buffers, unit testing, TDD, open source -->
+
+**iOS:**
+Swift,
+Objective-C,
+SwiftUI,
+SwiftData,
+UIKit,
+Share extensions,
+Widgets,
+Localization,
+Certificates and profiles management,
+App Store and Test Flight deployment,
+Realm,
+Firebase,
+RxSwift,
+SwiftyJSON,
+AutoLayout,
+SwiftLint,
+Fastlane;
+**Networking:**
+REST,
+gRPC,
+Protocol buffers,
+Go middleware;
+**Testing:**
+Unit testing,
+XCTest framework,
+Quick/Nimble,
+TDD;
+**Hybrid mobile:**
+Flutter,
+Dart,
+Ionic,
+**Other stack exposure:**
+Relational databases,
+Node.js,
+Vue.js;
+**CI/CD:**
+Bitrise,
+GitHub Actions;
+**Methodologies:**
+Agile,
+Scrum
 
 ## Experience
 
