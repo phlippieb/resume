@@ -25,7 +25,7 @@ Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions
 
 <div class="table"><div class="row">
   <div class="col"><b>Solo developer (side project)</b></div>
-  <div class="col"><b>Personal website</b></div>
+  <div class="col"><b>phlippieb.dev</b></div>
   <div class="col"><b>2024</b></div>
 </div></div>
 
