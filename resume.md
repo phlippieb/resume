@@ -43,7 +43,7 @@ TDD;
 **Hybrid mobile:**
 Flutter,
 Dart,
-Ionic,
+Ionic;
 **Other stack exposure:**
 Relational databases,
 Node.js,
