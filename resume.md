@@ -85,7 +85,9 @@ Scrum
 - Interviewed potential candidates and held mock interviews to prepare employees for client placement
 - Designed and hosted workshops to educate graduates about best practices regarding clean and maintainable code
 
-### Client projects
+### Client projects, Retro Rabbit
+
+<div class="sub-projects">
 
 <div class="table"><div class="row">
   <div class="col">
@@ -149,7 +151,11 @@ Scrum
 - Introduced modularisation to 100k+ line codebase, improving build times and developer efficiency
 - Triaged and fixed hundreds of production user issues
 
-### Internal contributions
+</div> <!-- End sub-projects -->
+
+### Internal contributions, Retro Rabbit
+
+<div class="sub-projects">
 
 <div class="table"><div class="row">
   <div class="col">Committee chair</div>
@@ -178,6 +184,7 @@ Scrum
 - Participated in pilot program for official mentorship initiative, suggesting improvements and solving logistic issues for full rollout of program
 - Took on multiple mentees simultaneously from diverse nationalities, totalling 5 to date
 
+</div> <!-- End sub-projects -->
 <br/>
 
 <div class="table"><div class="row">
