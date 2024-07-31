@@ -64,7 +64,7 @@ Scrum
 </div></div>
 
 - Designed, implemented and published a new mobile application, allowing users to create budgets which allocate accumulating daily amounts and track their spending, currently rated at 5 stars with 100+ downloads
-- Leveraged SwiftUI and Swift Data to create a modern and lightweight codebase with no 3rd-party dependencies, featuring iCloud-backed data persistence
+- Leveraged SwiftUI and SwiftData to create a modern and lightweight codebase with no 3rd-party dependencies, featuring iCloud-backed data persistence
 
 <div class="table"><div class="row">
   <div class="col"><b>Solo developer (side project)</b></div>
