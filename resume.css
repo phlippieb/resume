@@ -42,13 +42,14 @@ body a {
   color: inherit;
 }
 
-
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   font-weight: 400;
 }
 
 h1 {
-  letter-spacing: -.05rem; 
+  letter-spacing: -0.05rem;
   font-size: 24px;
   margin: 0;
   margin-bottom: -6px;
@@ -60,7 +61,8 @@ h3 {
   font-size: 14px;
 }
 @media screen {
-  h2, h3 {
+  h2,
+  h3 {
     font-size: 18px;
   }
 }
@@ -128,9 +130,24 @@ h3 {
     text-align: left;
   }
 
- .row > .col:last-child {
+  .row > .col:last-child {
     text-align: left;
-  } 
+  }
+}
+
+@media screen {
+  .col.links {
+    width: 100%;
+    text-align: left;
+  }
+
+  .row.links > .col:nth-child(2) {
+    text-align: left;
+  }
+
+  .row.links > .col:last-child {
+    text-align: left;
+  }
 }
 
 /* Render bullet-point lists with dashes */

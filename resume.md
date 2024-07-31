@@ -2,10 +2,10 @@
 <!-- # Phlippie Bosman -->
 
 <br/>
-<div class="table"><div class="row">
-  <div class="col"><a href="mailto:phlippie.bosman@gmail.com">phlippie.bosman@gmail.com</a></div>
-  <div class="col"><a href="https://github.com/phlippieb">github.com/phlippieb</a></div>
-  <div class="col"><a href="https://phlippieb.dev">phlippieb.dev</a></div>
+<div class="table"><div class="row links">
+  <div class="col links"><a href="mailto:phlippie.bosman@gmail.com">phlippie.bosman@gmail.com</a></div>
+  <div class="col links"><a href="https://github.com/phlippieb">github.com/phlippieb</a></div>
+  <div class="col links"><a href="https://phlippieb.dev">phlippieb.dev</a></div>
 </div></div>
 
 ## Skills
@@ -73,13 +73,13 @@ Scrum
 </div></div>
 
 - Designed, implemented and published my personal website built in Astro JS without the use of templates to host my technical blog and showcase my portfolio
- 
+
 <div class="table"><div class="row">
   <div class="col"><b>Senior software developer</b></div>
   <div class="col"><b>Retro Rabbit Enterprise Services</b></div>
   <div class="col"><b>2016 – present</b></div>
 </div></div>
-    
+
 - Worked in various technologies and paradigms across mobile, frontend, and backend to deliver quality software on diverse client projects, specialising in native iOS
 - Led international and interorganisational teams, cultivated deep client relationships, and fostered an internal culture of continuous learning
 - Interviewed potential candidates and held mock interviews to prepare employees for client placement
@@ -236,4 +236,3 @@ Scrum
     2019
   </div>
 </div></div>
-
