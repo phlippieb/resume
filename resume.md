@@ -129,7 +129,7 @@ Scrum
 
 - Maintained Swift- and Objective-C-based native iOS code modules providing all functionality for personal and company-issued medical insurance across 4 independent schemes to 3M+ customers
 - Coordinated and participated in production support, addressing user issues and collaborating across teams to drive problem resolution
-- Uphold best practices including MVVM, clean coding, and unit testing to ensure a robust, maintainable, and configurable code base
+- Upheld best practices including MVVM, clean coding, and unit testing to ensure a robust, maintainable, and configurable code base
 - Implemented version-bump automation in GitHub Actions and Fastlane to unblock code merging conflicts and improve team throughput
 - Introduced SwiftLint to keep code reviews focused on content over style
 - Translated high-level stakeholder feature requests to implementation plans in absence of business representation
