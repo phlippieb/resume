@@ -103,7 +103,7 @@ Scrum
   </div>
 </div></div>
 
-- Co-led team of 8 implementing new Flutter-based mobile app for South Africa's largest medical scheme with 2.8M customers
+- Co-led team of 8, wrote Dart and Swift code, and leveraged RESTful data transfer and OAuth protocols to implement a new Flutter-based mobile app for South Africa's largest medical scheme with 2.8M customers
 - Designed library of modules for reusability across product houses through a process of proposing RFCs, writing abstract interfaces, and releasing standalone federated plugins
 - Instilled usage of BLoC, dependency injection, and feature flag patterns through reference implementations and code reviews
 - Set up release pipelines on GitHub Actions and Bitrise into Firebase App Distribution, App Store Connect, and Google Play to provide QA with nightly builds and streamline app store releases, enabling all team members to take app live
