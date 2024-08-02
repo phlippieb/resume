@@ -88,7 +88,7 @@ h3 {
   font-size: 12px;
   margin-top: 20px;
   font-weight: normal;
-  margin-left: 24px;
+  /* margin-left: 24px; */
   border-bottom: 1px solid black;
 }
 @media screen {
@@ -165,5 +165,5 @@ li {
 }
 
 .sub-projects {
-  margin-left: 24px;
+  /* margin-left: 24px; */
 }

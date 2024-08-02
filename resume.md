@@ -1,17 +1,17 @@
 <!-- NOTE: Title will be added by pandoc -->
 <!-- # Phlippie Bosman -->
 
-<br/>
-<div class="table"><div class="row links">
-  <div class="col links"><a href="mailto:phlippie.bosman@gmail.com">phlippie.bosman@gmail.com</a></div>
-  <div class="col links"><a href="https://github.com/phlippieb">github.com/phlippieb</a></div>
-  <div class="col links"><a href="https://phlippieb.dev">phlippieb.dev</a></div>
-</div></div>
+<a href="mailto:phlippie.bosman@gmail.com">phlippie.bosman@gmail.com</a>
+|
+<a href="https://phlippieb.dev">phlippieb.dev</a>
 
 ## Skills
 
 <!-- Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions, CI/CD, Firebase, Fastlane, Realm, gRPC, Protocol Buffers, unit testing, TDD, open source -->
 
+**Hybrid mobile:**
+Flutter,
+Dart;
 **iOS:**
 Swift,
 Objective-C,
@@ -43,10 +43,6 @@ TDD;
 **iOS architectures:**
 MVC,
 MVVM;
-**Hybrid mobile:**
-Flutter,
-Dart,
-Ionic;
 **Other stack exposure:**
 Relational databases,
 Node.js,
@@ -67,15 +63,6 @@ Scrum
 </div></div>
 
 - Designed, implemented and published a new mobile application, allowing users to create budgets which allocate accumulating daily amounts and track their spending, currently rated at 5 stars with 100+ downloads
-- Leveraged SwiftUI and SwiftData to create a modern and lightweight codebase with no 3rd-party dependencies, featuring iCloud-backed data persistence and widgets
-
-<div class="table"><div class="row">
-  <div class="col"><b>Solo developer (side project)</b></div>
-  <div class="col"><b>phlippieb.dev</b></div>
-  <div class="col"><b>2024</b></div>
-</div></div>
-
-- Designed, implemented and published my personal website built in Astro JS without the use of templates to host my technical blog and showcase my portfolio
 
 <div class="table"><div class="row">
   <div class="col"><b>Senior software developer</b></div>
@@ -86,9 +73,10 @@ Scrum
 - Worked in various technologies and paradigms across mobile, frontend, and backend to deliver quality software on diverse client projects, specialising in native iOS
 - Led international and interorganisational teams, cultivated deep client relationships, and fostered an internal culture of continuous learning
 - Interviewed potential candidates and held mock interviews to prepare employees for client placement
+- Co-chaired committee aimed at fostering a culture of continuous learning and knowledge sharing, whose output includes 3 internal conferences showcasing a total of 34 speakers to 500+ attendees
 - Designed and hosted workshops to educate graduates about best practices regarding clean and maintainable code
 
-### Client projects, Retro Rabbit
+### Client projects at Retro Rabbit
 
 <div class="sub-projects">
 
@@ -111,28 +99,6 @@ Scrum
 - Instilled usage of BLoC, dependency injection, and feature flag patterns through reference implementations and code reviews
 - Set up release pipelines on GitHub Actions and Bitrise into Firebase App Distribution, App Store Connect, and Google Play to provide QA with nightly builds and streamline app store releases, enabling all team members to take app live
 - Integrated in-house iOS-native biometric authentication SDK as a Flutter plugin, connecting native Swift code to Dart, improving user experience and aligning with organisation security standards
-- Engaged stakeholders, converting business cases to road maps with linked issues, reporting regularly on install- and crash stats, and proactively negotiating roadblocks
-
-<div class="table"><div class="row">
-  <div class="col">
-    iOS technical lead <br/>
-    Health Module for Mobile App
-  </div>
-  <div class="col">
-    Discovery Limited <br/>
-    South Africa
-  </div>
-  <div class="col">
-    2022 – 2023
-  </div>
-</div></div>
-
-- Maintained Swift- and Objective-C-based native iOS code modules providing all functionality for personal and company-issued medical insurance across 4 independent schemes to 3M+ customers
-- Coordinated and participated in production support, addressing user issues and collaborating across teams to drive problem resolution
-- Upheld best practices including MVVM, clean coding, and unit testing to ensure a robust, maintainable, and configurable code base
-- Implemented version-bump automation in GitHub Actions and Fastlane to unblock code merging conflicts and improve team throughput
-- Introduced SwiftLint to keep code reviews focused on content over style
-- Translated high-level stakeholder feature requests to implementation plans in absence of business representation
 
 <div class="table"><div class="row">
   <div class="col">
@@ -156,74 +122,6 @@ Scrum
 - Triaged and fixed hundreds of production user issues
 
 </div> <!-- End sub-projects -->
-
-### Internal contributions, Retro Rabbit
-
-<div class="sub-projects">
-
-<div class="table"><div class="row">
-  <div class="col">Committee chair</div>
-  <div class="col">Knowledge Ninjas</div>
-  <div class="col">2019 – 2024</div>
-</div></div>
-
-- Co-chaired committee aimed at fostering a culture of continuous learning and knowledge sharing
-- Co-organised 3 internal conferences, showcasing a total of 34 speakers to 500+ attendees
-- Organised a continuous stream of technical talks by internal and external speakers, keeping employees engaged and stimulated
-
-<div class="table"><div class="row">
-  <div class="col">Chief editor</div>
-  <div class="col">Company blog</div>
-  <div class="col">2020 – present</div>
-</div></div>
-
-- Recruited authors internally and reviewed, edited, and published posts, ensuring the company website had a steady stream of interesting and relevant content at a high standard of writing
-
-<div class="table"><div class="row">
-  <div class="col">Pilot participant and mentor</div>
-  <div class="col">Mentorship program</div>
-  <div class="col">2023 – present</div>
-</div></div>
-
-- Participated in pilot program for official mentorship initiative, suggesting improvements and solving logistic issues for full rollout of program
-- Took on multiple mentees simultaneously from diverse nationalities, totalling 5 to date
-
-</div> <!-- End sub-projects -->
-<br/>
-
-<div class="table"><div class="row">
-  <div class="col"><b>Assistant lecturer</b></div>
-  <div class="col"><b>University of Pretoria</b></div>
-  <div class="col"><b>2013 – 2015</b></div>
-</div></div>
-
-- Prepared and presented lectures for undergraduate computer science modules
-- Set assessment tasks, including exams, tests, and exercises
-
-<div class="table"><div class="row">
-  <div class="col">
-    <b>Junior software developer <br/>
-    Nedbank Team</b>
-  </div>
-  <div class="col">
-    <b>Net1 UEPS Technologies<br/>
-    South Africa</b>
-  </div>
-  <div class="col">
-    <b>2012</b>
-  </div>
-</div></div>
-
-- Investigated production incidents involving transactions through a major South African bank's point-of-sale transaction switch system
-- Performed maintenance work to align system to ISO standards updates
-
-<div class="table"><div class="row">
-  <div class="col"><b>Tutor</b></div>
-  <div class="col"><b>University of Pretoria</b></div>
-  <div class="col"><b>2010 – 2011</b></div>
-</div></div>
-
-- Assisted with practical lab sessions and assessment marking for undergraduate computer science modules
 
 ## Education
 
