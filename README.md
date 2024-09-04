@@ -1,6 +1,6 @@
 # Phlippie Bosman's Resume
 
-This repository contains source files for generating my resume. I did a write-up about [running a resume like a software project](https://phlippieb.bearblog.dev/the-resume-as-a-software-micro-project/) on my blog.
+This repository contains source files for generating my resume. I did a write-up about [running a resume like a software project](https://phlippieb.dev/posts/resume-as-software-microproject/) on my blog.
 
 It can be used to generate a PDF-format resume, as well as a PDF-format cover letter, for various applications. It also acts as the source for a Github Pages-hosted version of the unabridged resume.
 
