@@ -4,13 +4,10 @@
 <br/>
 <div class="table"><div class="row links">
   <div class="col links"><a href="mailto:phlippie.bosman@gmail.com">phlippie.bosman@gmail.com</a></div>
-  <div class="col links"><a href="https://github.com/phlippieb">github.com/phlippieb</a></div>
   <div class="col links"><a href="https://phlippieb.dev">phlippieb.dev</a></div>
 </div></div>
 
 ## Skills
-
-<!-- Swift (8 years), Objective-C, iOS, UIKit, Dart, Flutter, Bitrise, GitHub Actions, CI/CD, Firebase, Fastlane, Realm, gRPC, Protocol Buffers, unit testing, TDD, open source -->
 
 **iOS:**
 Swift,
@@ -61,6 +58,14 @@ Scrum
 ## Experience
 
 <div class="table"><div class="row">
+  <div class="col"><b>Senior software engineer</b></div>
+  <div class="col"><b>Entersekt</b></div>
+  <div class="col"><b>2024 – present</b></div>
+</div></div>
+
+- Recently started this role; no experience of note yet
+
+<div class="table"><div class="row">
   <div class="col"><b>Solo developer (side project)</b></div>
   <div class="col"><b>Daily Budget iOS application</b></div>
   <div class="col"><b>2024</b></div>
@@ -80,7 +85,7 @@ Scrum
 <div class="table"><div class="row">
   <div class="col"><b>Senior software developer</b></div>
   <div class="col"><b>Retro Rabbit Enterprise Services</b></div>
-  <div class="col"><b>2016 – present</b></div>
+  <div class="col"><b>2016 – 2024</b></div>
 </div></div>
 
 - Worked in various technologies and paradigms across mobile, frontend, and backend to deliver quality software on diverse client projects, specialising in native iOS
