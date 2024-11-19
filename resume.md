@@ -50,7 +50,8 @@ Node.js,
 Vue.js;
 **CI/CD:**
 Bitrise,
-GitHub Actions;
+GitHub Actions,
+GitLab Pipelines;
 **Methodologies:**
 Agile,
 Scrum
