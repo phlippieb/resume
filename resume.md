@@ -63,7 +63,8 @@ Scrum
   <div class="col"><b>2024 – present</b></div>
 </div></div>
 
-- Recently started this role; no experience of note yet
+- Performed maintenance of dependencies for proprietary SDKs providing secure interactions between financial institutions and their customers, ensuring security features are up-to-date
+- Maintained GitLab Runner-based CI/CD pipelines, allowing automated testing and releases of the SDK and client-facing test applications
 
 <div class="table"><div class="row">
   <div class="col"><b>Solo developer (side project)</b></div>
@@ -245,3 +246,9 @@ Scrum
     2019
   </div>
 </div></div>
+
+Publications:
+
+- **Master's thesis** | Bosman, Phlippie. *The influence of fitness landscape characteristics on the search behaviour of particle swarm optimisers*. University of Pretoria (South Africa), 2019.
+- **Journal artical**  | Engelbrecht, Andries P., Phlippie Bosman, and Katherine M. Malan. "The influence of fitness landscape characteristics on particle swarm optimisers." *Natural Computing* (2022): 1-11.
+- **Conference paper** | Bosman, Phlippie, and Andries P. Engelbrecht. "Diversity rate of change measurement for particle swarm optimisers." *International Conference on Swarm Intelligence*. Cham: Springer International Publishing, 2014.
