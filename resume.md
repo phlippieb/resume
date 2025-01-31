@@ -34,6 +34,7 @@ Protocol buffers,
 Go middleware;
 **Testing:**
 Unit testing,
+Swift Testing framework,
 XCTest framework,
 Quick/Nimble,
 TDD;
