@@ -42,6 +42,7 @@ TDD;
 MVC,
 MVVM;
 **Hybrid mobile:**
+Kotlin Multiplatform,
 Flutter,
 Dart,
 Ionic;
@@ -60,22 +61,24 @@ Scrum
 ## Experience
 
 <div class="table"><div class="row">
-  <div class="col"><b>Senior software engineer</b></div>
+  <div class="col"><b>Senior mobile software engineer</b></div>
   <div class="col"><b>Entersekt</b></div>
   <div class="col"><b>2024 – present</b></div>
 </div></div>
 
-- Performed maintenance of dependencies for proprietary SDKs providing secure interactions between financial institutions and their customers, ensuring security features are up-to-date
-- Maintained GitLab Runner-based CI/CD pipelines, allowing automated testing and releases of the SDK and client-facing test applications
+- Implemented features and performed maintenance of dependencies for proprietary SDKs written in Swift and Objective-C providing secure interactions between financial institutions and their customers, ensuring highly trustworthy authentication in mobile applications
+- Assisted in the migration of in-house products from legacy on-premises channels to new cloud-hosted solutions in a backwards-compatible fashion, ensuring a smooth transition experience for customers and unlocking new features and business value
+- Maintained GitLab Runner-based CI/CD pipelines on a self-hosted machine, allowing automated testing and releases of the SDK and client-facing test applications
+- Created a mobile cross-platform plugin in Kotlin Multiplatform, enabling teams to write fully automated integration tests
 
 <div class="table"><div class="row">
   <div class="col"><b>Solo developer (side project)</b></div>
   <div class="col"><b>Daily Budget iOS application</b></div>
-  <div class="col"><b>2024</b></div>
+  <div class="col"><b>2024 - Present</b></div>
 </div></div>
 
 - Designed, implemented and published a new mobile application, allowing users to create budgets which allocate accumulating daily amounts and track their spending, currently rated at 5 stars with 100+ downloads
-- Leveraged SwiftUI and SwiftData to create a modern and lightweight codebase with no 3rd-party dependencies, featuring iCloud-backed data persistence and widgets
+- Leveraged SwiftUI and SwiftData to create a modern and lightweight codebase with no 3rd-party dependencies, featuring iCloud-backed data persistence and native widgets
 
 <div class="table"><div class="row">
   <div class="col"><b>Solo developer (side project)</b></div>
@@ -182,7 +185,7 @@ Scrum
 <div class="table"><div class="row">
   <div class="col">Chief editor</div>
   <div class="col">Company blog</div>
-  <div class="col">2020 – present</div>
+  <div class="col">2020 – 2024</div>
 </div></div>
 
 - Recruited authors internally and reviewed, edited, and published posts, ensuring the company website had a steady stream of interesting and relevant content at a high standard of writing
@@ -190,7 +193,7 @@ Scrum
 <div class="table"><div class="row">
   <div class="col">Pilot participant and mentor</div>
   <div class="col">Mentorship program</div>
-  <div class="col">2023 – present</div>
+  <div class="col">2023 – 2024</div>
 </div></div>
 
 - Participated in pilot program for official mentorship initiative, suggesting improvements and solving logistic issues for full rollout of program
