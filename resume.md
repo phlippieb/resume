@@ -18,6 +18,8 @@ UIKit,
 Share extensions,
 Widgets,
 Localization,
+Local authentication,
+Secure enclave,
 Certificates and profiles management,
 App Store and Test Flight deployment,
 Realm,
@@ -57,6 +59,10 @@ GitLab Pipelines;
 **Methodologies:**
 Agile,
 Scrum
+**Security:**
+JWS,
+JWT,
+RSA
 
 ## Experience
 
