@@ -97,7 +97,11 @@ h3 {
     margin-top: 36px;
   }
 }
-
+@media screen and (prefers-color-scheme: dark) {
+  h3 {
+    border-bottom: 1px solid #dddddd;
+  }
+}
 /* Table divs for item headings */
 .table {
   width: 100%;
