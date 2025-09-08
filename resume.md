@@ -1,8 +1,4 @@
-@media screen and (prefers-color-scheme: dark) {
-  h3 {
-    border-bottom
-  }
-}<!-- NOTE: Title will be added by pandoc -->
+<!-- NOTE: Title will be added by pandoc -->
 <!-- # Phlippie Bosman -->
 
 <br/>
